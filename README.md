@@ -33,7 +33,7 @@ I enjoy working on **real-world business problems** involving profitability, pri
 ---
 
 ### 🔹 Inventory Optimization & Demand Analysis  
-**SQL • Python • Analytics**
+**SQL • Power BI • Analytics**
 
 - Analyzed inventory levels, demand patterns, and stock movement
 - Identified overstock and understock risks
