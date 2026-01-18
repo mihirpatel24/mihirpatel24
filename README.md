@@ -27,8 +27,8 @@ I enjoy working on **real-world business problems** involving profitability, pri
 - Found **Consumer segment** and **California & New York** as key profit drivers
 - Built a **2-page executive dashboard** with actionable recommendations
 
-👉 View Project:  
-https://github.com/mihirpatel24/Retail-Profitability-Analysis
+👉 [View Project – Retail Profitability & Discount Analysis](https://github.com/mihirpatel24/Retail-Profitability-Analysis)
+
 
 ---
 
@@ -40,8 +40,8 @@ https://github.com/mihirpatel24/Retail-Profitability-Analysis
 - Used data-driven insights to improve inventory planning and efficiency
 - Demonstrated analytical thinking for real-world supply chain scenarios
 
-👉 View Project:  
-https://github.com/mihirpatel24/inventory-optimization-project
+👉 [View Project – Inventory Optimization](https://github.com/mihirpatel24/inventory-optimization-project)
+
 
 ---
 
@@ -53,7 +53,8 @@ https://github.com/mihirpatel24/inventory-optimization-project
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/24mihirpatel/
+**LinkedIn:** [Mihir Patel](https://www.linkedin.com/in/24mihirpatel/)
+
 
 ---
 
